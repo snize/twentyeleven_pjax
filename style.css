@@ -1,0 +1,12 @@
+/*
+Theme Name:     twentyeleven_pjax
+Description:    Child theme for the Twenty Eleven theme for WordPress
+Author:         snize
+Author URI:     http://bulbleb.com/
+Template:       twentyeleven
+Version:        0.1.0
+License:        GNU General Public License
+License URI:    license.txt
+*/
+
+@import url('../twentyeleven/style.css');
